@@ -1,0 +1,47 @@
+{
+  "name": "JOYBUY.COM",
+  "short_name": "JD",
+  "description": "Joybuy.com:Shopping for phones & Accessories, Electronics, Computers & Accessories and more",
+  "icons": [
+    {
+      "src": "//st-en.jd.com/st-m/res/en/launcher-36.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "//st-en.jd.com/st-m/res/en/launcher-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "//st-en.jd.com/st-m/res/en/launcher-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "//st-en.jd.com/st-m/res/en/launcher-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "//st-en.jd.com/st-m/res/en/launcher-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "//st-en.jd.com/st-m/res/en/launcher-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "//st-en.jd.com/st-m/res/en/launcher-384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "//m.joybuy.com/?from=homeScreen",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#EE5456",
+  "background_color": "#C91624"
+}
